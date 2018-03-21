@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "هلا",
+    "description": "هلا شات",
+    "slug": "hala",
+    "privacy": "public",
+    "sdkVersion": "25.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.2.0",
+    "orientation": "portrait",
+    "icon": "./assets/iconnn.png",
+    "splash": {
+      "image": "./assets/mysplash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "ios": {
+      "bundleIdentifier": "com.alsaplel.hala"
+    },
+    "android": {
+      "package": "com.hala.com"
+    }
+  }
+}
